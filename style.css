@@ -40,8 +40,8 @@ body{
 /* DIV - CONTAINER-MODAL */
 
 .container-modal{   /* de esta forma, lo que hice fue darle el alto(100vh) y el ancho(100%) */
-    width: 100%;    /* OCUPAMOS TODA LA PANTALLA ya que la posicion FIXED (fijado) hixo que el */
-    height: 100vh;  /* boton abrir modal, queede abajo de todo. */
+    width: 100%;    /* OCUPAMOS TODA LA PANTALLA ya que la position FIXED (fijado) hizo que el */
+    height: 100vh;  /* boton abrir modal, quede abajo de todo. */
     position: fixed;
     top: 0; 
     left: 0;
